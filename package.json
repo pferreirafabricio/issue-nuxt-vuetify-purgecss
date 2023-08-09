@@ -12,9 +12,12 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.16.19",
     "nuxt": "^3.6.2",
-    "nuxt-purgecss": "^2.0.0"
+    "nuxt-purgecss": "^2.0.0",
+    "vite-plugin-vuetify": "^1.0.2",
+    "sass": "^1.64.2"
   },
   "dependencies": {
-    "vuetify": "^3.3.11"
+    "vuetify": "^3.3.11",
+    "@mdi/font": "^7.2.96"
   }
 }
