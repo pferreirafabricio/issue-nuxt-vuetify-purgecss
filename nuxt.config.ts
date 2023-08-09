@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     transpile: ["vuetify"],
   },
   modules: [
+    "nuxt-purgecss",
     // eslint-disable-next-line require-await
     async (_options, nuxt) => {
       nuxt.hooks.hook("vite:extendConfig", (config) =>
