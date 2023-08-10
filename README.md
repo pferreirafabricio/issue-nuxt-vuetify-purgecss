@@ -1,6 +1,8 @@
 # 🧪 Vuetify 3 styles missing in the production build
 This repository is for the reproduction of the following issue: https://github.com/Developmint/nuxt-purgecss/issues/187
 
+Run it in CodeSandbox: https://codesandbox.io/p/github/pferreirafabricio/issue-nuxt-vuetify-purgecss/main
+
 ## ✅ In dev mode the styles are correct
 <img src="./docs/preview-dev-build.png" />
 
